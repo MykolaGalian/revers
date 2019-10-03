@@ -1,0 +1,11 @@
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/bin/Debug/netcoreapp3.0/revers_arr_
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/bin/Debug/netcoreapp3.0/revers_arr_.deps.json
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/bin/Debug/netcoreapp3.0/revers_arr_.runtimeconfig.json
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/bin/Debug/netcoreapp3.0/revers_arr_.runtimeconfig.dev.json
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/bin/Debug/netcoreapp3.0/revers_arr_.dll
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/bin/Debug/netcoreapp3.0/revers_arr_.pdb
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/obj/Debug/netcoreapp3.0/revers_arr_.csprojAssemblyReference.cache
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/obj/Debug/netcoreapp3.0/revers_arr_.AssemblyInfoInputs.cache
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/obj/Debug/netcoreapp3.0/revers_arr_.AssemblyInfo.cs
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/obj/Debug/netcoreapp3.0/revers_arr_.dll
+/home/kolya/RiderProjects/revers_arr_/revers_arr_/obj/Debug/netcoreapp3.0/revers_arr_.pdb
